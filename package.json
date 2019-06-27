@@ -1,5 +1,5 @@
 {
-    "name": "R'lyeh bot",
+    "name": "discordbot",
     "version": "1.0.0",
     "description": "My First Discord Bot",
     "main": "bot.js",
